@@ -7,13 +7,14 @@ My daily LeetCode problem-solving journey in pythonThis repository documents my 
 - Maintain daily consistency
 
 ## Language
-- Python
+- Python3
 
 ## Progress Tracker
 
 | # | Problem | Difficulty | Topic |
 |---|---------|------------|-------|
 | 1 | Two Sum | Easy | Arrays |
+| 2 | Median of Two Sorted Arrays | Hard | Arrays |
 
 ---
 
