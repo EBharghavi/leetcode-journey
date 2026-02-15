@@ -11,10 +11,10 @@ My daily LeetCode problem-solving journey in pythonThis repository documents my 
 
 ## Progress Tracker
 
-| # | Problem | Difficulty | Topic |
-|---|---------|------------|-------|
-| 1 | Two Sum | Easy | Arrays |
-| 2 | Median of Two Sorted Arrays | Hard | Arrays |
+| # | P.No | Problem | Difficulty | Topic |
+|---|---|---------|------------|-------|
+| 1 | 1 | Two Sum | Easy | Arrays |
+| 2 | 4 | Median of Two Sorted Arrays | Hard | Arrays |
 
 ---
 
