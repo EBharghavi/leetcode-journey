@@ -1,5 +1,5 @@
 # LeetCode Journey 
-My daily LeetCode problem-solving journey in pythonThis repository documents my daily LeetCode problem-solving journey.
+My daily LeetCode problem-solving journey in python. This repository documents my daily LeetCode problem-solving journey.
 
 ## Goal
 - Strengthen Data Structures & Algorithms
