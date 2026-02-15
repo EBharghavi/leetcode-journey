@@ -1,3 +1,4 @@
+# Day 2 - Find Median of Two Sorted Arrays
 class Solution:
     def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
         nums=nums1+nums2
