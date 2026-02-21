@@ -19,7 +19,8 @@ My daily LeetCode problem-solving journey in python. This repository documents m
 | 4 | 3 | Palindrome Number | 9 | Easy| Math |
 | 5 | 3 | Fibonacci Series | 509 | Easy | Math, Dynamic Programming, Recursion, Memoization |
 | 6 | 4 | Group Anagrams | 49 | Easy | Array, Hash Table, String, Sorting |
-| 7 | 5 | Reverse String II | 541 | Easy | Mid level, Two pointers, String|| 
+| 7 | 5 | Reverse String II | 541 | Easy | Mid level, Two pointers, String |
+| 8 | 6 | Maximum Average Subarray I | 643 | Easy | Midlevel, Array, Sliding Window | 
 
 ---
 
