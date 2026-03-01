@@ -1,5 +1,5 @@
 # LeetCode Journey 
-My daily LeetCode problem-solving journey in python. This repository documents my daily LeetCode problem-solving journey.
+My daily LeetCode problem-solving journey in python3. This repository documents my daily LeetCode problem-solving journey.
 
 ## Goal
 - Strengthen Data Structures & Algorithms
@@ -23,5 +23,3 @@ My daily LeetCode problem-solving journey in python. This repository documents m
 | 8 | 6 | Maximum Average Subarray I | 643 | Easy | Midlevel, Array, Sliding Window | 
 
 ---
-
-Consistency builds mastery.
