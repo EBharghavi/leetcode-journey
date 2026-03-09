@@ -21,6 +21,7 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 | 6 | 4 | Group Anagrams | 49 | Easy | Array, Hash Table, String, Sorting | Python3 |
 | 7 | 5 | Reverse String II | 541 | Easy | Mid level, Two pointers, String | Python3 |
 | 8 | 6 | Maximum Average Subarray I | 643 | Easy | Midlevel, Array, Sliding Window | Python3 |
-| 9 | 7 | Add Two Numbers | 2 | |||||||||||||||||||||||||||||||||||
+| 9 | 7 | Add Two Numbers | 2 | Medium | Principal, Linked list, Math, Recusion | Python3 |
+||||||||||||||||||||||||||||||||
 
 ---
