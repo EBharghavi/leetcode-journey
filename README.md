@@ -6,7 +6,7 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 - Prepare for coding interviews
 - Maintain daily consistency
 
-## Language
+## Language 
 - Python3
 
 ## Progress Tracker
