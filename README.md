@@ -30,7 +30,8 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 | 15 | 10 | Best Time to Buy and Sell Stock | 121 | Easy | Array, Dynamic Programming | Python3 |
 | 16 | 11 | Contains Duplicate | 217 | Easy | Array, Hash Table, Sorting | Python3 |
 | 17 | 12 | Merge Sorted Array | 88 | Easy | Array, Two Pointers, Sorting | Python3 |
-|18 | 13 | Majority Element | 169 | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | Python3 |
-||||||||||||||||||||||
+| 18 | 13 | Majority Element | 169 | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | Python3 |
+| 19 | 14 | Move Zeroes | 283 | Easy | Array, Two Pointers | Python3 |
+||||||||||||||
 
 ---
