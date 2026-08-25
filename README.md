@@ -22,16 +22,19 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 | 7 | 5 | Reverse String II | 541 | Easy | Mid level, Two pointers, String | Python3 |
 | 8 | 6 | Maximum Average Subarray I | 643 | Easy | Midlevel, Array, Sliding Window | Python3 |
 | 9 | 7 | Add Two Numbers | 2 | Medium | Principal, Linked list, Math, Recusion | Python3 |
-| 10 | 8 | Combine Two Tables | 175 | Easy | Database | Python3 |
-| 11 | 8 | Employees Earning More Than Their Managers | 181 | Easy | Database | Python3 |
-| 12 | 8 | Not Boring Movies | 620 | Easy | Database | Python3 |
-| 13 | 8 | Find Customer Referee | 584 | Easy | Database | Python3 |
-| 14 | 9 | Remove Duplicates from Sorted Array | 26 | Easy | Array, Two Pointers | Python3 |
-| 15 | 10 | Best Time to Buy and Sell Stock | 121 | Easy | Array, Dynamic Programming | Python3 |
-| 16 | 11 | Contains Duplicate | 217 | Easy | Array, Hash Table, Sorting | Python3 |
-| 17 | 12 | Merge Sorted Array | 88 | Easy | Array, Two Pointers, Sorting | Python3 |
-| 18 | 13 | Majority Element | 169 | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | Python3 |
-| 19 | 14 | Move Zeroes | 283 | Easy | Array, Two Pointers | Python3 |
-| 20 |||||||||||||||||||||||||||||||||||||||||||
+| 10 | 8 | Reverse String | 344 | Easy | x | Python3 |
+| 11 | 9 | Roman to Integer | 13 | Easy | x | Python3 |
+|||||||||||||||||||||||
+| 12 | 9 | Combine Two Tables | 175 | Easy | Database | Python3 |
+| 13 | 9 | Employees Earning More Than Their Managers | 181 | Easy | Database | Python3 |
+| 14 | 9 | Not Boring Movies | 620 | Easy | Database | Python3 |
+| 15 | 9 | Find Customer Referee | 584 | Easy | Database | Python3 |
+| 16 | 10 | Remove Duplicates from Sorted Array | 26 | Easy | Array, Two Pointers | Python3 |
+| 17 | 11 | Best Time to Buy and Sell Stock | 121 | Easy | Array, Dynamic Programming | Python3 |
+| 18 | 12 | Contains Duplicate | 217 | Easy | Array, Hash Table, Sorting | Python3 |
+| 19 | 13 | Merge Sorted Array | 88 | Easy | Array, Two Pointers, Sorting | Python3 |
+| 20 | 14 | Majority Element | 169 | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | Python3 |
+| 21 | 15 | Move Zeroes | 283 | Easy | Array, Two Pointers | Python3 |
+| 22 | ||||||||||||||||||||||||||||||||||||||||||
 
 ---
