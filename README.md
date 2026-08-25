@@ -34,7 +34,7 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 | 19 | 13 | Merge Sorted Array | 88 | Easy | Python3 |
 | 20 | 14 | Majority Element | 169 | Easy | Python3 |
 | 21 | 15 | Move Zeroes | 283 | Easy | Python3 |
-| 22 | 16 | Longest Common Prefix | Easy | Python3 |
+| 22 | 16 | Longest Common Prefix | 14 | Easy | Python3 |
 | 23 | 17 |  Merge Strings Alternately | 1768 | Easy | Python3 |
 | 24 | 18 | Greatest Common Divisor of Strings | 1071 | Easy | Python 3 | 
 | 25 | 19 | Smallest Missing Multiple of K | 3718 | Easy | Python3 |
