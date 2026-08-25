@@ -12,7 +12,7 @@ My daily LeetCode problem-solving journey in python3. This repository documents 
 ## Progress Tracker
 
 | # | Day | Problem | No | Difficulty | Language |
-|---|---|---------|---|------------|-------|--------|
+|---|---|---------|---|------------|--------|
 | 1 | 1 | Two Sum | 1 | Easy | Python3 |
 | 2 | 2 | Median of Two Sorted Arrays | 4 | Hard | Python3|
 | 3 | 3 | Reverse Interger | 7 | Mid | Python3,Java |
